@@ -1,3 +1,3 @@
 {
-  yumyumyay: https://yumyumyay.club
+  "yumyumyay": "https://yumyumyay.club"
 }
