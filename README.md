@@ -1,3 +1,1 @@
-{
-  "yumyumyay": "https://yumyumyay.club"
-}
+
