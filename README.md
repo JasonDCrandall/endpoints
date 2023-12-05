@@ -1,1 +1,3 @@
-# endpoints
+{
+  yumyumyay: https://yumyumyay.club
+}
